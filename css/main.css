@@ -278,3 +278,18 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+html,body { height: 100%; }
+
+body {
+    align-items: center;
+    background: #333;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h2 {
+    font-weight: normal;
+}
